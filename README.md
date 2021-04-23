@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tylerNelson4595
 - 👀 I’m interested in web development projects
-- 🌱 I’m currently learning .net, javascript, c# and user experience.
+- 🌱 I’m currently learning .net, javascript, c# and HTML
 - 💞️ I’m looking to collaborate on web development projects. 
 - 📫 How to reach me: tylernelson4595@gmail.com
 
